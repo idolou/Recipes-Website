@@ -31,6 +31,8 @@ This project is a full-stack web application for managing personal recipes using
 
 
 ## GitHub Repository
-
 [Recipe Website GitHub Repository](https://github.com/idolou/Recipe-Website)
+
+# Demo
+https://github.com/idolou/Recipes-Website/assets/63515984/de6c2186-c708-402e-a5c5-e109c090329d
 
